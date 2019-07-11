@@ -32,5 +32,4 @@ INSERT INTO Employee VALUES (6, 'Lilla', 25000, 1);
 INSERT INTO Employee VALUES (7, 'Kriszta', 13000, 1);
 INSERT INTO Employee VALUES (8, 'Róbert', 27000, 1);
 INSERT INTO Employee VALUES (9, 'Béla', 5000, 1);
-);
 ``` 
